@@ -17,11 +17,8 @@ The json_files folder contains the 3 json files -
 * academy_monthly_cumulative_201507-202309.json
 
 An example row in the json file - 
-{"project": "en.wikipedia", "article": "Everything_Everywhere_All_at_Once", "granularity": "monthly", "timestamp": "2020010100", "agent": "user", "views": 3515}
+[{"12 Years a Slave (film)": [{"project": "en.wikipedia", "granularity": "monthly", "timestamp": "2015070100", "views": 138151}, {"project": "en.wikipedia", "granularity": "monthly", "timestamp": "2015080100", "views": 122993}, {}]
 
-Here, project is the name of the project, article refers to name of the article, granulairty refers to the time duration for which web traffic is montiored, timestamp is a YYYYMMDD00 format, agent refers to who accessed it and views is the number of monthly visits.
+The data structure is a list of dictionaries (outer is for article level) within a list of dictionaries (inner is the time series data for each article)
 
-The csv files available in csv_files were generated to make graphing easier. It has the exact same columns as the json files - 
-* academy_monthly_mobile_201507-202309.csv
-* academy_monthly_desktop_201507-202309.csv
-* academy_monthly_cumulative_201507-202309.csv
+Here, project is the name of the project, granulairty refers to the time duration for which web traffic is montiored, timestamp is a YYYYMMDD00 format, agent refers to who accessed it and views is the number of monthly visits.
