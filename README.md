@@ -5,7 +5,7 @@ The goal of this assignment is to construct, analyze, and publish a dataset of m
 For example, English Wikipedia’s text can be used under the terms of the [Creative Commons Attribution Share-Alike license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 
-**[Terms of use]**(https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
+[Terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
 ---
 
 [API usage documentation](https://wikimedia.org/api/rest_v1/#/Pageviews%20data)
