@@ -8,7 +8,10 @@ For example, English Wikipedia’s text can be used under the terms of the [Crea
 ---
 
 [API usage documentation](https://wikimedia.org/api/rest_v1/#/Pageviews%20data)
+---
 
+**Data files desciption**
+---
 The graphs folder contains all required graphs - 
 * 1_page_requests_graph.png
 * 2_top_articles_page_views_graph.png 
