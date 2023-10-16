@@ -1,6 +1,6 @@
 The goal of this assignment is to construct, analyze, and publish a dataset of monthly article traffic for a select set of pages from English Wikipedia from July 1, 2015 through September 30, 2023. 
 
-For example, English Wikipedia’s text can be used under the terms of the [Creative Commons Attribution Share-Alike license] https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+For example, English Wikipedia’s text can be used under the terms of the [Creative Commons Attribution Share-Alike license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 [Terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
 
