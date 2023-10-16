@@ -6,11 +6,12 @@ For example, English Wikipedia’s text can be used under the terms of the [Crea
 
 **Usage**      
 ---   
-
 [Terms of use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
 
-[API usage documentation](https://wikimedia.org/api/rest_v1/#/Pageviews%20data)
+
+**API usage**
 ---
+[API usage documentation](https://wikimedia.org/api/rest_v1/#/Pageviews%20data)
 
 **Data files desciption**
 ---
